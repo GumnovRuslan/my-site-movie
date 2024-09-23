@@ -1,0 +1,14 @@
+:root {
+  --text-color: #000;
+}
+
+[data-theme="dark"] {
+  /* Темная тема */
+  --background-color: #1e1e1e;
+  --text-color: #ffffff;
+  --primary-color: #ff6347;
+}
+
+body {
+  color: #fff;
+}
